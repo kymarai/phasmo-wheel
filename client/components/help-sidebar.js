@@ -36,7 +36,7 @@ class ItemSidebar extends BaseElement {
             Phasmo-Wheel is inspired by the work of sullyr0x and many contributors.
           </li>
           <li>
-            Check out the <a href="https://discord.gg/UPEceAz" target="_blank">Phasmo-Wheel Discord</a> to learn more.
+            Check out the <a href="https://discord.gg/zTMMYgcSgF" target="_blank">Phasmo-Wheel Discord</a> to learn more.
           </li>
           <li>
             Site created by <a href="https://steamcommunity.com/profiles/76561198042481118/" target="_blank">Koga</a>.
